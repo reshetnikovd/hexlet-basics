@@ -1,2 +1,1 @@
-# hexlet-basics
-My hexlet studying 
+Hi!
